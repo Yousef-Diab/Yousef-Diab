@@ -3,7 +3,7 @@
 
 
 <br>
-- 🌱 I’m currently learning **Advanced Data Structures & Algorithms**
+- 🌱 I’m currently learning <b>Advanced Data Structures & Algorithms</b>
 
 - 💬 Ask me about **Problem Solving** , **Anything Computer related** & **Software Engineering**
 
