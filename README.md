@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Problem Solving** , **Anything Computer related** & **Software Engineering**
 
-- 🔭 I’m currently working on my [Problem Solving Skills](https://github.com/Yousef-Diab)
+- 🔭 I’m currently working on my [Problem Solving Skills](https://github.com/Yousef-Diab/leetcode)
 
 - 📫 reach me @ **ydiab4@gmail.com**
 <h3 align="left">Connect with me:</h3>
