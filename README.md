@@ -1,13 +1,14 @@
 <h1 align="center">Hello 👋, I'm Yousef Diab!</h1>
 <h3 align="center">A passionate Computer Science Student from Jordan</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Yousef-Diab&label=Profile%20views&color=0e75b6&style=plastic" alt="not available" /> </p>
 
 
 <br>
-- 🌱 I’m currently learning <b>Advanced Data Structures & Algorithms</b>
+- 🌱 I’m currently learning <b>Advanced Data Structures & Algorithms</b> & <b> React.Js </b>
 
 - 💬 Ask me about **Problem Solving** , **Anything Computer related** & **Software Engineering**
 
-- 🔭 I’m currently working on my [Problem Solving Skills](https://github.com/Yousef-Diab/leetcode)
+- 🔭 Take a Look at My [LeetCode Solutions](https://github.com/Yousef-Diab/leetcode)
 
 - 📫 reach me @ **ydiab4@gmail.com**
 <h3 align="left">Connect with me:</h3>
@@ -21,4 +22,3 @@
  <span align="left"> <a href="https://github.com/Yousef-Diab" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a></span><br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yousef-Diab&theme=dark" alt="streak-not-available" /></p><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Yousef-Diab&label=Profile%20views&color=0e75b6&style=plastic" alt="not available" /> </p>
