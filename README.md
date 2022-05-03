@@ -4,7 +4,7 @@
 
 
 <br>
-- 🌱 I’m currently learning <b>Advanced Data Structures & Algorithms</b> & <b> React.Js </b>
+- 🌱 I’m currently learning <b>Advanced Data Structures & Algorithms</b> + <b> React.Js </b>
 
 - 💬 Ask me about **Problem Solving** , **Anything Computer related** & **Software Engineering**
 
