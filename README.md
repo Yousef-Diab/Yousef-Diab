@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Yousef Diab!</h1>
 <h3 align="center">A passionate Computer Science Student from Jordan</h3>
+<a href="https://app.daily.dev/Barghouthi"><img src="https://api.daily.dev/devcards/4a774b7820e34bfc80662142f33144df.png?r=9rh" width="400" alt="Yousef Al-Barghouthe's Dev Card"/></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Yousef-Diab&label=Profile%20views&color=0e75b6&style=plastic" alt="not available" /> </p>
 
 
