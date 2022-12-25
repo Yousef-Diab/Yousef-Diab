@@ -5,7 +5,7 @@
 
 
 <br>
-- 🌱 I’m currently learning <b>Advanced Data Structures & Algorithms</b> + <b> React.Js </b>
+- 🌱 I’m a Software Engineer Mostly Working with **ASP.NET Core** & **React**
 
 - 💬 Ask me about **Problem Solving** , **Anything Computer related** & **Software Engineering**
 
