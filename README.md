@@ -5,7 +5,7 @@
 
 
 <br>
-- 🌱 I’m a Software Engineer Mostly Working with **ASP.NET Core** & **React**
+- 🌱 I’m a Software Engineer Mostly Working with <strong>ASP.NET Core</strong> & <strong>React</strong>
 
 - 💬 Ask me about **Problem Solving** , **Anything Computer related** & **Software Engineering**
 
