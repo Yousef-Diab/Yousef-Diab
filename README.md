@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Yousef Diab!</h1>
-<h3 align="center">A passionate Computer Science Student from Jordan</h3>
+<h3 align="center">A Software Engineer from Jordan</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Yousef-Diab&label=Profile%20views&color=0e75b6&style=plastic" alt="not available" /> </p>
 
 
